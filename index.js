@@ -1,4 +1,4 @@
-flet num = document.querySelectorAll('li')
+fgflet num = document.querySelectorAll('li')
 num.forEach((e) => {
   e.addEventListener('click', () => {
     num.forEach((li) => li.classList.remove('active'))
