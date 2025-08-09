@@ -1,2 +1,2 @@
-gkmfkg# nav
+# nav
 left-nav
