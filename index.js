@@ -11,3 +11,4 @@ num.forEach((e) => {
       .scrollIntoView({ behavior: 'smooth' })
   })
 })
+
